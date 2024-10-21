@@ -29,7 +29,7 @@ This project is a simple **React Native** todo list application built using **Ex
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-react-native.git
+   git clone [https://github.com/your-username/todo-list-react-native.git](https://github.com/TopStar423/ToDo-Expo-TypeScript)
 
 2. Navigate to the project directory:
 
